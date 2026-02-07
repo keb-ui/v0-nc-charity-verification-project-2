@@ -31,7 +31,7 @@ export default function Promo() {
       <div className="fixed top-[-10vh] left-0 h-[120vh] w-full">
         <motion.div style={{ y }} className="relative w-full h-full">
           <Image 
-            src="/images/community-hands-unity.png" 
+            src="/placeholder.svg?height=1080&width=1920" 
             fill 
             alt="Community hands together in unity" 
             style={{ objectFit: "cover" }} 

@@ -39,7 +39,7 @@ export default function AboutPage() {
             <div className="flex-1">
               <div className="relative h-[400px] w-full overflow-hidden">
                 <Image
-                  src="/images/open-hands-reaching.png"
+                  src="/placeholder.svg?height=400&width=600"
                   alt="Open hands reaching out together in community"
                   fill
                   className="object-cover"

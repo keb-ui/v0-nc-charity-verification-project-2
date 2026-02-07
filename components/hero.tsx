@@ -19,7 +19,7 @@ export default function Hero() {
       <Header />
       <motion.div style={{ y }} className="relative h-full">
         <Image
-          src="/images/nc-mountain-landscape.png"
+          src="/placeholder.svg?height=1080&width=1920"
           fill
           alt="Aerial view of North Carolina mountain landscape"
           style={{ objectFit: "cover" }}
