@@ -33,7 +33,7 @@ export default function Featured() {
           <div className="flex-1 w-full">
             <div className="relative h-[400px] lg:h-[600px] w-full overflow-hidden">
               <Image
-                src="/images/open-hands-reaching.png"
+                src="/placeholder.svg?height=600&width=600"
                 alt="Open hands reaching out together in community"
                 fill
                 className="object-cover"
